@@ -1,2 +1,2 @@
 # 90-nights-of-dsa
-Data Structure Algo
+Data Structure Algorithm
